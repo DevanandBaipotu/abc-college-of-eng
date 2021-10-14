@@ -1,0 +1,22 @@
+.page-title {
+    background: #154c88;
+    margin: 0;
+    padding: 15px;
+    color: #fff;
+    text-align: left;
+}
+
+button{
+    font-size: 14.4px;
+    font-family: "Open Sans", sans-serif;
+}
+
+@media screen and (max-width:679px) {
+    .page-title {
+        font-size: 1em;
+    }
+
+    .btn.btn-lg {
+        height: 1.3em;
+    }
+}
